@@ -3,19 +3,21 @@
 
 ### 大一上学期
 
-#### C programming language
+#### C语言程序设计
 
 - [C programming language](https://github.com/Shinehale/C-programming-language) :biking_woman:
 
-#### Introduction to IT
+#### 信息科学导论
 
 - [Introduction to IT](https://github.com/Shinehale/Introduction-to-IT) :v:
+
+### 一元分析学
 
 
 
 ### 大一下学期
 
-#### Data structure 
+#### 数据结构
 
 - [Data strcture in C++&C](https://github.com/Shinehale/Data-structure-C) 🉑 
 
@@ -23,11 +25,11 @@
 
 ### 大二上学期
 
-#### introduction to Numerical Analysis
+#### 计算方法
 
 - [calculation method](https://github.com/Shinehale/calculation-method):video_game:
 
-#### Basic IT skills
+#### 模拟电子和数字系统（一、二）
 
 - [Digital Electronic Technology](https://github.com/Shinehale/digital-circuit):fist_oncoming:
 - [analog circuit](https://github.com/Shinehale/analog-circuit) :stuck_out_tongue_closed_eyes:
