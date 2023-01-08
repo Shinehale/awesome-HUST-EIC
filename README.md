@@ -56,5 +56,9 @@
 
 - [Circuit Test Experiment ](https://github.com/Shinehale/awesome-HUST/tree/main/%E7%94%B5%E8%B7%AF%E6%B5%8B%E8%AF%95%E5%AE%9E%E9%AA%8C):video_game:
 
+#### 大学物理
+
+- 大学物理（二） 
+
 
 
