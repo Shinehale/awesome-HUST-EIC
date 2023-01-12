@@ -64,3 +64,6 @@
 
 - [批判性思维](https://github.com/Shinehale/awesome-HUST/tree/main/%E6%89%B9%E5%88%A4%E6%80%A7%E6%80%9D%E7%BB%B4):video_game:
 
+#### 马原
+
+- [马克思主义原理](https://github.com/Shinehale/awesome-HUST/tree/main/%E9%A9%AC%E5%8E%9F):video_game:
