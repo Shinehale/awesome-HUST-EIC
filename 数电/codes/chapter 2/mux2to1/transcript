@@ -1,0 +1,82 @@
+# Reading C:/intelFPGA_lite/19.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/mux2to1_df.v}
+cd {C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1}
+vlib work
+vmap work work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work work 
+# Copying C:/intelFPGA_lite/19.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+ls
+# modelsim.ini  mux2to1_df.v  test_mux2to1_df.v  transcript                                  
+# 
+# work:
+# _info                                                                                                                                                                
+ls
+# modelsim.ini  mux2to1_df.v  test_mux2to1_df.v  transcript                                  
+# 
+# work:
+# _info                                                                                                                                                                
+cd ..
+# reading C:/intelFPGA_lite/19.1/modelsim_ase/win32aloem/../modelsim.ini
+ls
+# 
+# mux2to1:
+# modelsim.ini  mux2to1_df.v  test_mux2to1_df.v  transcript  work                        
+cd work
+# couldn't change working directory to "work": no such file or directory
+cd work/
+# couldn't change working directory to "work/": no such file or directory
+cd {C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1}
+# reading modelsim.ini
+vlog -reportprogress 300 -work work {C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/mux2to1_df.v} {C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/test_mux2to1_df.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:56:40 on Nov 30,2022
+# vlog -reportprogress 300 -work work C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/mux2to1_df.v C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/test_mux2to1_df.v 
+# -- Compiling module mux2to1_df
+# -- Compiling module test_mux2to1_df
+# 
+# Top level modules:
+# 	test_mux2to1_df
+# End time: 21:56:40 on Nov 30,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/mux2to1_df.v} {C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/test_mux2to1_df.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:57:14 on Nov 30,2022
+# vlog -reportprogress 300 -work work C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/mux2to1_df.v C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/test_mux2to1_df.v 
+# -- Compiling module mux2to1_df
+# -- Compiling module test_mux2to1_df
+# 
+# Top level modules:
+# 	test_mux2to1_df
+# End time: 21:57:14 on Nov 30,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.test_mux2to1_df
+# vsim work.test_mux2to1_df 
+# Start time: 21:57:43 on Nov 30,2022
+# Loading work.test_mux2to1_df
+# Loading work.mux2to1_df
+vsim work.test_mux2to1_df
+# End time: 21:57:54 on Nov 30,2022, Elapsed time: 0:00:11
+# Errors: 0, Warnings: 0
+# vsim work.test_mux2to1_df 
+# Start time: 21:57:54 on Nov 30,2022
+# Loading work.test_mux2to1_df
+# Loading work.mux2to1_df
+add wave -r /*
+run -all
+#                    0:	S = 0	D1 = 0	D0 = 0	Y = 0
+#                    5:	S = 0	D1 = 0	D0 = 1	Y = 1
+#                   10:	S = 0	D1 = 1	D0 = 0	Y = 0
+#                   15:	S = 0	D1 = 1	D0 = 1	Y = 1
+#                   20:	S = 1	D1 = 0	D0 = 0	Y = 0
+#                   25:	S = 1	D1 = 0	D0 = 1	Y = 0
+#                   30:	S = 1	D1 = 1	D0 = 0	Y = 1
+#                   35:	S = 1	D1 = 1	D0 = 1	Y = 1
+#                   40:	S = 0	D1 = 0	D0 = 0	Y = 0
+# ** Note: $stop    : C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/test_mux2to1_df.v(18)
+#    Time: 45 ns  Iteration: 0  Instance: /test_mux2to1_df
+# Break in Module test_mux2to1_df at C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/test_mux2to1_df.v line 18
+quit -sim
+# End time: 22:11:11 on Nov 30,2022, Elapsed time: 0:13:17
+# Errors: 0, Warnings: 0

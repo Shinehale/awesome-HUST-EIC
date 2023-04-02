@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1
+vmux2to1_df
+Z1 !s110 1669816634
+!i10b 1
+!s100 zDO>S:E@>foD851HK1bXJ1
+ID@o@7i]]0`TIk=5gn2;V;3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1669815980
+8C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/mux2to1_df.v
+FC:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/mux2to1_df.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1669816634.000000
+Z5 !s107 C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/test_mux2to1_df.v|C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/mux2to1_df.v|
+Z6 !s90 -reportprogress|300|-work|work|C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/mux2to1_df.v|C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/test_mux2to1_df.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vtest_mux2to1_df
+R1
+!i10b 1
+!s100 ?LjSc@3Um:k0F@VW91fnA0
+IJ_=IWQ14?MARR[kVPfHC30
+R2
+R0
+w1669816384
+8C:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/test_mux2to1_df.v
+FC:/Users/hale/Desktop/digital-circuit/codes/chapter 2/mux2to1/test_mux2to1_df.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
