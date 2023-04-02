@@ -6,6 +6,7 @@
 **说明**：
 
 - 对应的实验课程在跳转连接的`./experiment`目录下可以看到实验报告和实验相关代码
+- 如果链接跳转没有发现相关的课件或者是不同于本校的课程课件，则在`./HUST`目录下课件相关代码
 - 如果想要批量进行下载其中课件或者代码（如果没有找到想要的科目，大概是我没有存档或者没有上，请参考别处），考虑使用google插件，搜索`GitZip for github`即可批量下载
 
 ### 大一上学期
@@ -16,7 +17,7 @@
 
 #### 信息科学导论
 
-- [Introduction to IT](https://github.com/Shinehale/Introduction-to-IT) :v:
+- [Introduction to IT](https://github.com/Shinehale/awesome-HUST/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA) :v:
 
 #### 一元分析学
 
@@ -54,12 +55,12 @@
 
 #### 模拟电子和数字系统（一、二）
 
-- [Digital Electronic Technology](https://github.com/Shinehale/digital-circuit):fist_oncoming:
-- [analog circuit](https://github.com/Shinehale/analog-circuit) :stuck_out_tongue_closed_eyes:
+- [Digital Electronic Technology](https://github.com/Shinehale/awesome-HUST/tree/main/%E6%95%B0%E7%94%B5):video_game:
+- [analog circuit](https://github.com/Shinehale/awesome-HUST/tree/main/%E6%A8%A1%E7%94%B5) ::video_game:
 
 #### 模电数电配套实验
 
-- [模电实验数电实验](https://github.com/Shinehale/Circuit-Test-Experiment):fist_oncoming:
+- 具体详见模电数电课程下的`./experiment`部分:video_game:
 
 #### 电路测试实验
 
@@ -67,7 +68,7 @@
 
 #### 大学物理
 
-- 大学物理（二） 
+- [大学物理（二）](https://github.com/Shinehale/awesome-HUST/tree/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86) :video_game:
 
 #### 批判性思维
 
@@ -76,6 +77,28 @@
 #### 马原
 
 - [马克思主义原理](https://github.com/Shinehale/awesome-HUST/tree/main/%E9%A9%AC%E5%8E%9F):video_game:
+
+
+
+### 大二下学期
+
+#### 信号与系统
+
+- [信号与系统](https://github.com/Shinehale/Signal-and-Systems):fist_oncoming:
+- HUST课程详见`./HUST`中，对应的配套实验详见`./HUST/labs`中
+
+### 数学建模
+
+- [数学建模](https://github.com/Shinehale/mathematical-modeling):fist_oncoming:
+- 作业详见`./hw`中
+
+### 微机原理
+
+- [微机原理](https://github.com/Shinehale/computer-organization) :fist_oncoming:
+
+#### 随机过程
+
+- [随机过程](https://github.com/Shinehale/random-process-information-theory):fist_oncoming:
 
 
 
