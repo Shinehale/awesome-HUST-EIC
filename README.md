@@ -3,103 +3,55 @@
 
 **祝所有看到这个文档的人，在充满挑战的 $EIC$ 活成自己的英雄，找到自己想要前往的道路。**
 
+**Hint:您的::star:将是我最大的鼓励**
+
 **说明**：
 
 - 对应的实验课程在跳转连接的`./experiment`目录下可以看到实验报告和实验相关代码
-- 如果链接跳转没有发现相关的课件或者是不同于本校的课程课件，则在`./HUST`目录下课件相关代码
-- 如果想要批量进行下载其中课件或者代码（如果没有找到想要的科目，大概是我没有存档或者没有上，请参考别处），考虑使用google插件，搜索`GitZip for github`即可批量下载
+- 如果表格中没有想要的课程，大概是我没有存档或者没有上，请参考别处
+- 如果想要批量进行下载其中课件或者代码（如果没有找到想要的科目），考虑使用google插件，搜索`GitZip for github`即可批量下载
 
 ### 大一上学期
 
-#### C语言程序设计
-
-- [C programming language](https://github.com/Shinehale/C-programming-language) :biking_woman:
-
-#### 信息科学导论
-
-- [Introduction to IT](https://github.com/Shinehale/awesome-HUST/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA) :v:
-
-#### 一元分析学
-
-- [monadic analysis](https://github.com/Shinehale/awesome-HUST/tree/main/%E4%B8%80%E5%85%83%E5%88%86%E6%9E%90%E5%AD%A6) :v:
-
-#### 线性代数
-
-- [Linear Algebra](https://github.com/Shinehale/awesome-HUST/tree/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0) :biking_woman:
-
-
-
-
+| 课程名称          | 课程仓库                                                     | 情况概要                                         |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------ |
+| **C语言程序设计** | [C programming language](https://github.com/Shinehale/C-programming-language) | 有配套实验和大作业课件中文，讲授中文             |
+| **信息科学导论**  | [Introduction to IT](https://github.com/Shinehale/awesome-HUST/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA) ✌️ | 有大作业（实现小车循迹功能），课件中文，讲授中文 |
+| **一元分析学**    | [monadic analysis](https://github.com/Shinehale/awesome-HUST/tree/main/%E4%B8%80%E5%85%83%E5%88%86%E6%9E%90%E5%AD%A6) ✌️ | 无配套实验，课件中文，讲授中文，启明学院单独命题 |
+| **线性代数**      | [Linear Algebra](https://github.com/Shinehale/awesome-HUST/tree/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0) 🚴‍♀ | 无配套实验，课件中文，讲授中文                   |
 
 ### 大一下学期
 
-#### 数据结构
-
-- [Data strcture in C++&C](https://github.com/Shinehale/Data-structure-C) 🉑 
-
-#### 物理实验
-
-- [physics experiment](https://github.com/Shinehale/awesome-HUST/tree/main/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C)🉑 
-
-#### 多元分析学
-
-- [multivariate analysis ](https://github.com/Shinehale/awesome-HUST/tree/main/%E5%A4%9A%E5%85%83%E5%88%86%E6%9E%90%E5%AD%A6)🉑 
-
-
+| 课程名称       | 课程仓库                                                     | 情况概要                                         |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------ |
+| **数据结构**   | [Data strcture in C++&C](https://github.com/Shinehale/Data-structure-C) 🉑 | 有配套实验（建议多写代码）无课件，讲授中文       |
+| **物理实验**   | [physics experiment](https://github.com/Shinehale/awesome-HUST/tree/main/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C)🉑 | 两学期的课，实验跟着做就可以了                   |
+| **多元分析学** | [multivariate analysis ](https://github.com/Shinehale/awesome-HUST/tree/main/%E5%A4%9A%E5%85%83%E5%88%86%E6%9E%90%E5%AD%A6)🉑 | 无配套实验，课件中文，讲授中文，启明学院单独命题 |
 
 ### 大二上学期
 
-#### 计算方法
-
-- [calculation method](https://github.com/Shinehale/calculation-method):video_game:
-
-#### 模拟电子和数字系统（一、二）
-
-- [Digital Electronic Technology](https://github.com/Shinehale/awesome-HUST/tree/main/%E6%95%B0%E7%94%B5):video_game:
-- [analog circuit](https://github.com/Shinehale/awesome-HUST/tree/main/%E6%A8%A1%E7%94%B5) ::video_game:
-
-#### 模电数电配套实验
-
-- 具体详见模电数电课程下的`./experiment`部分:video_game:
-
-#### 电路测试实验
-
-- [Circuit Test Experiment ](https://github.com/Shinehale/awesome-HUST/tree/main/%E7%94%B5%E8%B7%AF%E6%B5%8B%E8%AF%95%E5%AE%9E%E9%AA%8C):video_game:
-
-#### 大学物理
-
-- [大学物理（二）](https://github.com/Shinehale/awesome-HUST/tree/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86) :video_game:
-
-#### 批判性思维
-
-- [批判性思维](https://github.com/Shinehale/awesome-HUST/tree/main/%E6%89%B9%E5%88%A4%E6%80%A7%E6%80%9D%E7%BB%B4):video_game:
-
-#### 马原
-
-- [马克思主义原理](https://github.com/Shinehale/awesome-HUST/tree/main/%E9%A9%AC%E5%8E%9F):video_game:
-
-
+| 课程名称                             | 课程仓库                                                     | 情况概要                         |
+| ------------------------------------ | ------------------------------------------------------------ | -------------------------------- |
+| **计算方法**                         | [calculation method](https://github.com/Shinehale/calculation-method)🎮 | 提高班的课，有配套实验，讲授中文 |
+| **模拟电子和数字系统（一）**（模电） | [analog circuit](https://github.com/Shinehale/awesome-HUST/tree/main/%E6%A8%A1%E7%94%B5) :🎮 | 核心专业课，邓天平强，我很菜     |
+| **模拟电子和数字系统（二）**（数电） | [Digital circuit](https://github.com/Shinehale/awesome-HUST/tree/main/%E6%95%B0%E7%94%B5)🎮 | 核心专业课，钟国辉强，我很菜     |
+| **电路测试实验**                     | [Circuit Test Experiment ](https://github.com/Shinehale/awesome-HUST/tree/main/%E7%94%B5%E8%B7%AF%E6%B5%8B%E8%AF%95%E5%AE%9E%E9%AA%8C)🎮 | 模电数电实验的前置实验课         |
+| **模电实验**                         | 详见模电课程下的`./experiment`部分🎮                          | 模电的配套实验，足够硬核         |
+| **大学物理（二）**                   | [大学物理（二）](https://github.com/Shinehale/awesome-HUST/tree/main/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86) 🎮 | 通识课，难度还行                 |
+| **批判性思维**                       | [批判性思维](https://github.com/Shinehale/awesome-HUST/tree/main/%E6%89%B9%E5%88%A4%E6%80%A7%E6%80%9D%E7%BB%B4)🎮 | 启明学院单独考试，面上班只需报告 |
+| **马原**                             | [马克思主义原理](https://github.com/Shinehale/awesome-HUST/tree/main/%E9%A9%AC%E5%8E%9F)🎮 | 通识课，见仁见智                 |
 
 ### 大二下学期
 
-#### 信号与系统
+| **课程名称**               | **课程仓库**                        | **情况概要**                               |
+| -------------------------- | ----------------------------------- | ------------------------------------------ |
+| **信号与系统**             |                                     | 有配套实验，课件英文，讲授中文             |
+| **数学建模**               |                                     | 提高班的课，有配套实验，想学还是有很多东西 |
+| **模电（三）**（微机原理） |                                     |                                            |
+| **随机过程**               |                                     |                                            |
+| **数电实验**               | 详见数电课程下的`./experiment`部分🎮 | 数电的配套实验，足够硬核                   |
+| **基础信息论**             |                                     |                                            |
+|                            |                                     |                                            |
+|                            |                                     |                                            |
 
-- [信号与系统](https://github.com/Shinehale/Signal-and-Systems):fist_oncoming:
-- HUST课程详见`./HUST`中，对应的配套实验详见`./HUST/labs`中
-
-### 数学建模
-
-- [数学建模](https://github.com/Shinehale/mathematical-modeling):fist_oncoming:
-- 作业详见`./hw`中
-
-### 微机原理
-
-- [微机原理](https://github.com/Shinehale/computer-organization) :fist_oncoming:
-
-#### 随机过程
-
-- [随机过程](https://github.com/Shinehale/random-process-information-theory):fist_oncoming:
-
-
-
-tips：任何命运，无论多么复杂漫长，实际上只反映于一个瞬间，那就是人们彻底醒悟自己究竟是谁的那一刻。
+**tips：任何命运，无论多么复杂漫长，实际上只反映于一个瞬间，那就是人们彻底醒悟自己究竟是谁的那一刻。**
