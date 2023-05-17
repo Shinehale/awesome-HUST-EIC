@@ -47,10 +47,14 @@
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------ |
 | **信号与系统**             | [signal and system](https://github.com/Shinehale/awesome-HUST-EIC/tree/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F):zipper_mouth_face: | 有配套实验，课件英文，讲授中文             |
 | **数学建模**               | [math model](https://github.com/Shinehale/mathematical-modeling):hammer: | 提高班的课，有配套实验，想学还是有很多东西 |
-| **模电（三）**（微机原理） |                                                              |                                            |
+| **模电（三）**（微机原理） | [microcomputer principle](https://github.com/Shinehale/awesome-HUST-EIC/tree/main/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86):six_pointed_star: | 很好的课，硬件讲的还是相对深的             |
 | **随机过程**               | [stochastic process](https://github.com/Shinehale/awesome-HUST-EIC/tree/main/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B)🎮 | 提高班单独命题，英文授课                   |
 | **数电实验**               | 详见数电课程下的`./experiment`部分🎮                          | 数电的配套实验，足够硬核                   |
 | **基础信息论**             |                                                              |                                            |
-| **数理方程和特殊函数**     |                                                              |                                            |
+| **数理方程和特殊函数**     | [Mathematical equations and special functions](https://github.com/Shinehale/awesome-HUST-EIC/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B) | 老师讲的很好，好好听就完事了               |
+| **模电（三）实验**         | [microcomputer principle experiment](https://github.com/Shinehale/awesome-HUST-EIC/blob/main/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86/labs/README.md):six_pointed_star: | 自己独立做一做还是很有意思的               |
 
 **tips：任何命运，无论多么复杂漫长，实际上只反映于一个瞬间，那就是人们彻底醒悟自己究竟是谁的那一刻。**
+
+
+
