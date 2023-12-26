@@ -1,0 +1,9 @@
+minimum_dimension 3.90319683517909e-010
+residual -1.00000000000000e+000
+percent_refinement 3.00000000000000e+001
+nonlinear_residual 1.00000000000000e-003
+deformation_dependent_object 0
+differential_matrix_computation 0
+force_density 0
+power_loss 0
+end

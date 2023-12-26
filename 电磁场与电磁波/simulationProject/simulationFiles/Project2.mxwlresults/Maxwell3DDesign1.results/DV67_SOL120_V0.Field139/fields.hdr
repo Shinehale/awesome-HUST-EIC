@@ -1,0 +1,6 @@
+$begin 'Field Header'
+   BigEndian=false
+   DataFormat='BINARY'
+   DataPrecision='Float'
+   Version=2.0
+$end 'Field Header'
