@@ -54,7 +54,7 @@
 | **数理方程和特殊函数**     | [Mathematical equations and special functions](https://github.com/Shinehale/awesome-HUST-EIC/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B):six_pointed_star: | 老师讲的很好，好好听就完事了               |
 | **模电（三）实验**         | [microcomputer principle experiment](https://github.com/Shinehale/awesome-HUST-EIC/tree/main/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86/labs):six_pointed_star: | 自己独立做一做还是很有意思的               |
 
-### 大三下学期
+### 大三上学期
 
 | **课程名称**       | **课程仓库**                                                 | **情况概要**                       |
 | ------------------ | ------------------------------------------------------------ | ---------------------------------- |
