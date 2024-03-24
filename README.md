@@ -54,6 +54,19 @@
 | **数理方程和特殊函数**     | [Mathematical equations and special functions](https://github.com/Shinehale/awesome-HUST-EIC/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B):six_pointed_star: | 老师讲的很好，好好听就完事了               |
 | **模电（三）实验**         | [microcomputer principle experiment](https://github.com/Shinehale/awesome-HUST-EIC/tree/main/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86/labs):six_pointed_star: | 自己独立做一做还是很有意思的               |
 
+### 大三下学期
+
+| **课程名称**       | **课程仓库**                                                 | **情况概要**                       |
+| ------------------ | ------------------------------------------------------------ | ---------------------------------- |
+| **计算机网络**     | computer network                                             | 刘威讲的挺好的，跟着好好学就足够了 |
+| **数字信号处理**   | [DSP](https://github.com/Shinehale/awesome-HUST-EIC/tree/main/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86) | 挺有意思的，期末考试不是很难       |
+| **通信原理**       | communication principle                                      | 挺负责的，考试有点难               |
+| **电磁场和电磁波** | [electronic feild](https://github.com/Shinehale/awesome-HUST-EIC/tree/main/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2) | 提高班需要有仿真的作业             |
+| **通信电子线路**   | [communication electronic circuit](https://github.com/Shinehale/awesome-HUST-EIC/tree/main/%E9%80%9A%E4%BF%A1%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF) | 黄佳庆老师人很好，很负责           |
+| **软件课程设计**   | [software design](https://github.com/Shinehale/HUST_EIC_software-design) | 软件课设，自认为写的还不错哈哈     |
+
+剩下的选修课程详见其他仓库 :star: [repository](https://github.com/Shinehale/HUST_EIC_BigDataTrack):star:
+
 **tips：任何命运，无论多么复杂漫长，实际上只反映于一个瞬间，那就是人们彻底醒悟自己究竟是谁的那一刻。**
 
 
